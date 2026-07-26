@@ -9,7 +9,7 @@ function nextSlide() {
 }
 
 // Cambia de imagen cada 5 segundos valor 5000 puse 60000 para que cambie cada 1 minuto
-setInterval(nextSlide, 5000);
+setInterval(nextSlide, 10000);
 
 // --- 2. INTEGRACIÓN CON YOUTUBE API ---
 let player;
