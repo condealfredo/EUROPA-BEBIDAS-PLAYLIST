@@ -9,6 +9,7 @@ body, html {
   height: 100%;
   overflow: hidden;
   font-family: sans-serif;
+  background-image: url('https://europa-bebidas-playlist.vercel.app/EUROPA-B-CON-TEXTURA-SOMBREADO.png')
 }
 
 /* Contenedor del Carrusel */
